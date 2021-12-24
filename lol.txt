@@ -1,0 +1,6 @@
+{
+
+              "ip":"satvik1810.aternos.me",
+              "port":"39867",
+              "name":"GENIUS"
+}
